@@ -1,0 +1,3 @@
+D:/programming/Uni courses/2nd year/OOP/Project/Proj not final/Event_Manager after seid/cmake-build-debug/CMakeFiles/Main_proj.dir
+D:/programming/Uni courses/2nd year/OOP/Project/Proj not final/Event_Manager after seid/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programming/Uni courses/2nd year/OOP/Project/Proj not final/Event_Manager after seid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
