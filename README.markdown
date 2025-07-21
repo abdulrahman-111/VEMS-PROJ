@@ -46,8 +46,7 @@ The Virtual Meetings System is a C++-based application designed to simplify the 
 - **Participants**: Browse events, register, join waiting lists, and provide feedback.
 - **Administrators**: Manage user accounts and ensure secure access.
 
-## Screenshots
-(Include screenshots of the application interface here, as referenced in the presentation. You can add them to the repository and link them in this section, e.g., `![Login Screen](screenshots/login.png)`)
+
 
 ## Contribution
 This project was developed by:
@@ -58,9 +57,6 @@ This project was developed by:
 - Maryam Rageh (23-101297)
 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Thanks to Dr. Shaymaa for guidance and support.
