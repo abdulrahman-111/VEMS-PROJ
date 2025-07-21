@@ -1,2 +1,0 @@
-# VEMS-PROJ
-
